@@ -1,0 +1,17 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Base.Theme.Prueba" parent="Theme.Material3.DayNight.NoActionBar">
+        <!-- Customize your light theme here. -->
+        <!--        <color name="pcolor">#00abd7</color>-->
+        <!--        <item name="colorPrimary">@color/pc</item>-->
+    </style>
+
+
+    <style name="SlashTheme" parent="Theme.Prueba">
+        <item name="android:windowBackground">@drawable/splash_screen</item>
+
+    </style>
+
+
+    <style name="Theme.Prueba" parent="Base.Theme.Prueba" />
+</resources>

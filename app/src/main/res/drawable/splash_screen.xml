@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<layer-list xmlns:android="http://schemas.android.com/apk/res/android">
+    <!--    <color android:name="pcolor">#00abd7</color>-->
+    <item android:drawable="@color/white" />
+    <item>
+        <bitmap
+            android:gravity="center"
+            android:src="@drawable/logorc" />
+        <rootEl>
+            <d1>roger c</d1>
+            <d2>Val2</d2>
+        </rootEl>
+    </item>
+</layer-list>
